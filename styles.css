@@ -35,9 +35,8 @@ main > div > div, main > div {
     padding: 25px;
 }
 #penguins > div {
-    flex-wrap: wrap;
-    width:auto;
-    flex-direction: column;
+    display: flex;
+    flex-direction: row;
 }
 a {
     text-decoration: none;
@@ -105,6 +104,6 @@ svg {
     }
     svg { 
         width: 100%; 
-        height: 100px; 
+        height: auto; 
     }
 }
