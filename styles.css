@@ -31,6 +31,9 @@ main > div > div, main > div {
     align-items: center;
     padding: 25px;
 }
+main > div > p {
+    padding-bottom: 30px;
+}
 #penguins > div {
     display: flex;
     flex-direction: row;
