@@ -22,10 +22,7 @@ header > div {
     width: auto;
 }
 main {
-    display: flex;
     flex-direction: column;
-    align-items: center;
-    height: 100%;
 }
 main > div > div, main > div {
     display: flex;
@@ -60,7 +57,6 @@ footer {
     display: flex;
     justify-content: space-between;
     background-color: #fefcdd;
-    margin: 0;
     height: 100%;
 }
 footer > div {
