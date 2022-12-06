@@ -87,14 +87,10 @@ svg {
         justify-content: center;
         align-items: center;
         background-color: #fefcdd;
-        margin: 0;
-        height: 100%;
     }
     header {
         display: flex;
         justify-content: space-between;
-        align-items: center;
-        height: 100%;
     }
     header > div {
         width: auto;
